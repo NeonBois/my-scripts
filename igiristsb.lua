@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/sparksnaps/igris/refs/heads/main/Lua"))()
